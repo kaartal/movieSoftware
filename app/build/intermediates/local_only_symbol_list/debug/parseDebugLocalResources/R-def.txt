@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color ic_launcher_background
+drawable actor_placeholder
+drawable ic_launcher_foreground
+drawable img
+drawable poster_placeholder
+id detailRatingBar
+id imgDetailPoster
+id imgPoster
+id ratingBar
+id recyclerActors
+id recyclerViewMovies
+id tvActorName
+id tvDetailDescription
+id tvDetailGenre
+id tvDetailRating
+id tvDetailTitle
+id tvGenre
+id tvRating
+id tvTitle
+layout activity_main
+layout activity_movie_detail
+layout item_actor
+layout item_movie
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MovieApp

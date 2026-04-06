@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="110dp"
+    android:viewportWidth="80"
+    android:viewportHeight="110">
+    <path android:fillColor="#2C2C2C" android:pathData="M0,0h80v110H0z"/>
+    <path android:fillColor="#555555"
+        android:pathData="M25,40 L55,40 L55,70 L25,70 Z"/>
+    <path android:fillColor="#555555"
+        android:pathData="M30,72 L50,72 L50,78 L30,78 Z"/>
+    <path android:fillColor="#555555"
+        android:pathData="M20,80 L60,80 L60,83 L20,83 Z"/>
+    <!-- Film icon -->
+    <path android:fillColor="#777777"
+        android:pathData="M35,45 L35,65 L55,55 Z"/>
+</vector>

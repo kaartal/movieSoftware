@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFD700</color>
+    <color name="colorPrimary">#E50914</color>
+    <color name="colorPrimaryDark">#B20710</color>
+    <color name="ic_launcher_background">#E50914</color>
+    <string name="app_name">Movie Catalog</string>
+    <style name="Theme.MovieApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#E50914</item>
+        <item name="colorPrimaryDark">#B20710</item>
+        <item name="colorAccent">#FFD700</item>
+        <item name="android:windowBackground">#121212</item>
+    </style>
+</resources>
