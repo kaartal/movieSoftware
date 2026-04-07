@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-32:/layout/item_movie.xml",
+        "source": "com.example.movieapp-main-35:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-32:/layout/item_actor.xml",
+        "source": "com.example.movieapp-main-35:/layout/item_actor.xml"
+    },
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.movieapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-32:/layout/activity_actor_detail.xml",
+        "source": "com.example.movieapp-main-35:/layout/activity_actor_detail.xml"
+    },
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-32:/layout/activity_movie_detail.xml",
+        "source": "com.example.movieapp-main-35:/layout/activity_movie_detail.xml"
+    }
+]

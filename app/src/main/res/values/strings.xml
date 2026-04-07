@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Movie Catalog</string>
+    <string name="app_name">MovieApp</string>
+    <string name="search_movies">Pretraži filmove…</string>
+    <string name="movie_poster">Poster filma</string>
+    <string name="actor_photo">Fotografija glumca</string>
+    <string name="cast">Glumci</string>
+    <string name="nationality">Nacionalnost</string>
+    <string name="birth_year">Godina rođenja</string>
+    <string name="biography">Biografija</string>
+    <string name="unknown">Nepoznato</string>
 </resources>

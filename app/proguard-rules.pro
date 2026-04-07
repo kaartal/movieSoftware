@@ -1,0 +1,2 @@
+-keep class com.example.movieapp.models.** { *; }
+-keep class com.example.movieapp.database.** { *; }

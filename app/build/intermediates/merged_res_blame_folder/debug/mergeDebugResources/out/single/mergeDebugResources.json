@@ -1,50 +1,58 @@
 [
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\layout\\activity_main.xml"
+        "merged": "com.example.movieapp-debug-33:/drawable_ic_movie_placeholder.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/ic_movie_placeholder.xml"
     },
     {
-        "merged": "com.example.movieapp-debug-29:/layout_item_actor.xml.flat",
-        "source": "com.example.movieapp-main-31:/layout/item_actor.xml"
+        "merged": "com.example.movieapp-debug-33:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\drawable_download.jpg.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\drawable\\download.jpg"
+        "merged": "com.example.movieapp-debug-33:/layout_activity_actor_detail.xml.flat",
+        "source": "com.example.movieapp-main-35:/layout/activity_actor_detail.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\layout_item_movie.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\layout\\item_movie.xml"
+        "merged": "com.example.movieapp-debug-33:/drawable_bg_search.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/bg_search.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.movieapp-debug-33:/drawable_bg_circle_placeholder.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/bg_circle_placeholder.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\layout_item_actor.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\layout\\item_actor.xml"
+        "merged": "com.example.movieapp-debug-33:/drawable_ic_search.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/ic_search.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\drawable_poster_placeholder.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\drawable\\poster_placeholder.xml"
+        "merged": "com.example.movieapp-debug-33:/layout_item_movie.xml.flat",
+        "source": "com.example.movieapp-main-35:/layout/item_movie.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.movieapp-debug-33:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\layout_activity_movie_detail.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\layout\\activity_movie_detail.xml"
+        "merged": "com.example.movieapp-debug-33:/drawable_ic_actor_placeholder.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/ic_actor_placeholder.xml"
     },
     {
-        "merged": "com.example.movieapp-debug-29:/drawable_img.png.flat",
-        "source": "com.example.movieapp-main-31:/drawable/img.png"
+        "merged": "com.example.movieapp-debug-33:/layout_activity_movie_detail.xml.flat",
+        "source": "com.example.movieapp-main-35:/layout/activity_movie_detail.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.movieapp-debug-33:/layout_item_actor.xml.flat",
+        "source": "com.example.movieapp-main-35:/layout/item_actor.xml"
     },
     {
-        "merged": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-debug-29:\\drawable_actor_placeholder.xml.flat",
-        "source": "C:\\Users\\halid\\.gradle\\daemon\\8.13\\com.example.movieapp-main-31:\\drawable\\actor_placeholder.xml"
+        "merged": "com.example.movieapp-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.movieapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.movieapp-debug-33:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.example.movieapp-debug-33:/drawable_bg_image_placeholder.xml.flat",
+        "source": "com.example.movieapp-main-35:/drawable/bg_image_placeholder.xml"
     }
 ]
