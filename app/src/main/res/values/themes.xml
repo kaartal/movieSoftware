@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.MovieApp" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowBackground">@color/background</item>
+    <style name="Theme.MovieApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#E50914</item>
+        <item name="colorPrimaryDark">#B20710</item>
+        <item name="colorAccent">#FFD700</item>
+        <item name="android:windowBackground">#121212</item>
     </style>
 </resources>
